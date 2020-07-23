@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculador IBAN</string>
+    <string name="number20">Debes escribir 20 números más</string>
+    <string name="remainingNumbers">Debes escribir %1$d números más</string>
+    <string name="ccc">Código Cuenta Cliente</string>
+    <string name="copyText">Copiar IBAN al portapapeles</string>
+    <string name="invalidCcc">CCC inválido</string>
+    <string name="copied">IBAN copiado</string>
+    <string name="result">IBAN:\n%1$s</string>
+    <string name="example">Por ejemplo, 00120345030000067890</string>
+    <string name="delete">Borrar IBAN</string>
+
+    <string name="ad">ca-app-pub-your-ad-id</string>
+</resources>
