@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IBANCalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/IBANCalculator.iml" group="IBANCalculator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="IBANCalculator/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IBANCalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/IBANCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IBANCalculator.app.unitTest.iml" />
     </modules>
   </component>
 </project>
