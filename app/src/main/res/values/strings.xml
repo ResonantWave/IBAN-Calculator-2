@@ -9,6 +9,8 @@
     <string name="result">IBAN:\n%1$s</string>
     <string name="example">Por ejemplo, 00120345030000067890</string>
     <string name="delete">Borrar IBAN</string>
+    <string name="calculate">Calcular IBAN</string>
 
     <string name="ad">ca-app-pub-7121430753816201/9064815770</string>
+    <string name="interstitialId">ca-app-pub-7121430753816201/2231887060</string>
 </resources>
